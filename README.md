@@ -18,9 +18,9 @@
 ```python
 class Sanskar:
     name       = "Sanskar Ratandhara"
-    based_in   = "Surat, India 🇮🇳  ——>  UAE 🇦🇪 (soon!)"
+    based_in   = "Valsad, India 🇮🇳 "
     education  = "B.Tech IT @ Silver Oak University | CGPA: 9.33 / 10 🏅"
-    roles      = ["Data Analyst", "Business Analyst", "ML Learner"]
+    roles      = ["Data Analyst", "Business Analyst", "ML Enthusiast"]
     status     = "🟢 Available & Open to Opportunities"
 
     def current_quest(self):
@@ -42,7 +42,7 @@ class Sanskar:
 - 🌱 Currently deepening my skills in **Machine Learning & Deep Learning**
 - 🔨 Building real-world **data analysis projects** with Power BI & SQL
 - 🤝 Looking to collaborate on **data-driven projects & open source**
-- 🎯 Targeting a **Data / Business Analyst** role in the UAE
+- 🎯 Targeting a **Data / Business Analyst** role
 - 📬 Reach me at **sanskar1909@gmail.com**
 
 ---
