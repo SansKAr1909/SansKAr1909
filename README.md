@@ -135,10 +135,9 @@ class Sanskar:
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SansKAr1909">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40"/>
+    <a href="https://medium.com/@sanskar19">
+    <img src="https://cdn.simpleicons.org/medium/6366F1" alt="Medium" height="40" width="40"/>
   </a>
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22Data+is+just+story+waiting+to+be+told.%22+%F0%9F%93%96" alt="quote" />
