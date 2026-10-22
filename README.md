@@ -18,9 +18,9 @@
 ```python
 class Sanskar:
     name       = "Sanskar Ratandhara"
-    based_in   = "Valsad, India 🇮🇳 "
+    based_in   = "India 🇮🇳 "
     education  = "B.Tech IT @ Silver Oak University | CGPA: 9.33 / 10 🏅"
-    roles      = ["Data Analyst", "Business Analyst", "ML Enthusiast"]
+    roles      = ["Data Analyst", "Business Analyst", "ML Engineer"]
     status     = "🟢 Available & Open to Opportunities"
 
     def current_quest(self):
@@ -32,7 +32,7 @@ class Sanskar:
         ]
 
     def fun_fact(self):
-        return "I once boosted organic traffic by 25% — then pivot to ML 😄"
+        return "I once boosted organic traffic by 25% — then pivoted to data and ML 😄"
 ```
 
 ---
@@ -84,14 +84,16 @@ class Sanskar:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 Sales Data Analysis</h3>
-      <p align="center"><strong>Power BI</strong></p>
-      <p>Built interactive dashboards analyzing <strong>1,500+ records</strong> across orders, customers & products. Tracked 10+ KPIs including revenue trends, top-selling products & customer segmentation.</p>
+      <h3 align="center">🛵 Quick Commerce: Habit or Hype?</h3>
+      <p align="center"><strong>Power BI · DAX · Data Storytelling</strong></p>
+      <p>Three dashboards testing whether India's 10-minute delivery boom reflects a real habit, covering <strong>Zepto, Blinkit and six other platforms</strong>. Looks at retention, order timing, campaign ROI and delivery speed versus satisfaction.</p>
+      <p align="center"><a href="https://github.com/SansKAr1909/quick-commerce-addiction-india">🔗 View Repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🏥 Insurance Data Analysis</h3>
-      <p align="center"><strong>SQL + Power BI</strong></p>
-      <p>Multi-source SQL analysis covering policies, premiums & claims. Dashboards for claim ratios, risk profiling & customer demographics — turning raw data into risk intelligence.</p>
+      <h3 align="center">💳 Credit Risk: Loan Default Prediction</h3>
+      <p align="center"><strong>Python · XGBoost · SHAP</strong></p>
+      <p>End-to-end ML pipeline predicting loan default on <strong>150K borrowers</strong>. Compared logistic regression, decision tree, random forest and XGBoost (<strong>test AUC 0.873</strong>), and used SHAP to explain each flagged borrower.</p>
+      <p align="center"><a href="https://github.com/SansKAr1909/credit-risk-default-prediction">🔗 View Repository</a></p>
     </td>
   </tr>
 </table>
@@ -137,5 +139,5 @@ class Sanskar:
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22Data+is+just+stories+waiting+to+be+told.%22+%F0%9F%93%96" alt="quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22Data+is+just+story+waiting+to+be+told.%22+%F0%9F%93%96" alt="quote" />
 </div>
