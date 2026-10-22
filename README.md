@@ -1,13 +1,15 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sanskar+Ratandhara+%F0%9F%91%8B;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sanskar+Ratandhara+%F0%9F%91%8B;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Profile views counter -->
 [![](https://komarev.com/ghpvc/?username=SansKAr1909&label=Profile+Views&color=6366f1&style=flat)](https://github.com/SansKAr1909)
 
 <!-- My Tech Journey Banner -->
-<img src="github.gif" width="600" alt="My Tech Journey - Data Analysis, AI & ML, Business Analysis"/>
+<img src="https://img.shields.io/badge/Data_Analyst-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Analyst-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-6366F1?style=for-the-badge"/>
 
 </div>
 
